@@ -1,5 +1,6 @@
 Milk x2
 Eggs x9
 Cheese x1
-Juice x1
+Orange x1
 Water x4
+Apples x5
