@@ -1,5 +1,5 @@
 Milk x2
-Eggs x9
+Eggs x8
 Cheese x1
 Juice x1
 Water x4
